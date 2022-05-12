@@ -1,0 +1,15 @@
+<center> <h2> Welcome Page </h2> </center>
+
+<center>
+<a href='item1.php'>Clothes</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href='item2.php'>Shoes</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href='item3.php'>Accessories</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href='item4.php'>Home</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href='cart.php'>Shopping Cart</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href='logout.php'>Logout</a>
+</center>
